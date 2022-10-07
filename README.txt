@@ -6,8 +6,8 @@ Instructions:
 2) Run start.py file
 
 Info:
-Pictures are taken from different onboard cameras of the Curiosity Rover. Feel free to play around with different query
-parameters to fetch data from different cams.
+Querying the API:
+https://github.com/chrisccerami/mars-photo-api#querying-the-api
 
 More info about APIs Photo Attributes:
 https://github.com/chrisccerami/mars-photo-api
